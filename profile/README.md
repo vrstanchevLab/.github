@@ -4,7 +4,7 @@ Explore the world of coding, live streams, and open-source software. 🚀
 
 ---
 
-[Home](#) | [About Me](#about-me-) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-) | [Contact](#contact-)
+[Home](#) | [About Me](#about-me-) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)
 
 
 ---
