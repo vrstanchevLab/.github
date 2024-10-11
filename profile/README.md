@@ -4,7 +4,7 @@ Explore the world of coding, live streams, and open-source software. 🚀
 
 ---
 
-[Home](#) | [About Me](#about-me-) | 📣 [Live Stream Schedule](#live-stream-schedule) | [Featured Project](#featured-project) | [Support](#support) | [Contact](#contact)
+[Home](#) | [About Me](#about-me-) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-) | [Contact](#contact-)
 
 
 ---
@@ -15,7 +15,7 @@ Hi, I'm **vrstanchev**, the sole creator and developer behind **vrstanchevLab**.
 
 ---
 
-## Tools 🛠️
+## Tools🛠️
 
 - **OS**: iOS (BSD-based) 🍏
 - **Shell**: a-Shell (classic UNIX shell) 🐚
@@ -24,7 +24,7 @@ Hi, I'm **vrstanchev**, the sole creator and developer behind **vrstanchevLab**.
 
 ---
 
-## Live Stream Schedule 📅
+## Live Stream Schedule📅
 
 Join my live streams where I dive deep into:
 
