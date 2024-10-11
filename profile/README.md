@@ -2,9 +2,8 @@
 
 Explore the world of coding, live streams, and open-source software. 🚀
 
----
+---[Home](#) | [About Me](#about-me) | [Tools](#tools) | 📣 [Live Stream Schedule](#live-stream-schedule) | [Featured Project](#featured-project) | [Support](#support-my-project) | [Contact](#contact-me)
 
-[Home](#) | [About Me](#about-me-) | [Tools](#tools) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)
 
 
 
@@ -34,7 +33,7 @@ Join my live streams where I dive deep into:
 - **Open-source tools on iOS and Linux** 📱🐧
 - **Vim, terminal utilities, and more** 🖥️
 
-Follow me on [Twitch](#) and [YouTube](#) to stay updated. 🔔
+Follow me on [Twitch](https://www.twitch.tv/vrstanchev) and [YouTube](https://www.youtube.com/@vrstanchev) to stay updated. 🔔
 
 ---
 
