@@ -4,7 +4,7 @@ Explore the world of coding, live streams, and open-source software. 🚀
 
 ---
 
-[Home](#) | [About Me](#about-me) | [Tools](#tools) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)
+[Home](#) | [About Me](#about-me-) | [Tools](#tools) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)
 
 
 
@@ -59,5 +59,5 @@ Thank you for your support! 🙏
 
 Want to get in touch or collaborate? Feel free to reach out:
 
-- **Email**: [contact@vrstanchev.com](mailto:vrstanchev@gmail.com)
+- **Email**: [vrstanchev@gmail.com](mailto:vrstanchev@gmail.com)
 - **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab) 🔗
