@@ -24,7 +24,7 @@ Hi, I'm **vrstanchev**, the sole creator and developer behind **vrstanchevLab**.
 
 ---
 
-## Live Stream Schedule📅
+## Live Stream Schedule 📅
 
 Join my live streams where I dive deep into:
 
