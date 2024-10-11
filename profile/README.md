@@ -48,7 +48,7 @@ A personal project focused on learning and experimenting with assembly languages
 
 If you'd like to support my work, you can donate by scanning the QR code below:
 
-![Support QR Code](path/to/qr-code-image.png)
+![Support QR Code](qr.png)
 
 Thank you for your support! 🙏
 
