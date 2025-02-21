@@ -1,62 +1,42 @@
-# Welcome to vrstanchevLab 🌍
+# 🔥 vrstanchevLab – Pushing the Limits of Low-Level Programming  
 
-Explore the world of coding, live streams, and open-source software. 🚀
+![GitHub Org](https://img.shields.io/badge/GitHub%20Staff-%E2%9C%94-blue?style=flat-square)  
+![Open Source](https://img.shields.io/badge/Open%20Source-100%25-green?style=flat-square)  
+![Live Streams](https://img.shields.io/badge/Live%20Streams-Nightly-red?style=flat-square)  
+![BSD & Linux](https://img.shields.io/badge/OS-BSD%20%26%20Linux-informational?style=flat-square)  
+![Assembly & C](https://img.shields.io/badge/Language-Assembly%20%26%20C-yellow?style=flat-square)  
 
---- [Home](#) | [About Me](#about-me-) | [Tools](#tools) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)
+🚀 **Hardcore Assembly. RISC-V Mastery. BSD iOS Development.**  
 
-
-
-
-
----
-
-## About Me 👤
-
-Hi, I'm **vrstanchev**, the sole creator and developer behind **vrstanchevLab**. I'm passionate about technology, coding, and open-source software. Through my projects and live streams, I aim to share my journey and expertise with the world. 💻✨
+💻 _No frameworks. No bloat. Just raw, optimized code._  
 
 ---
 
-## Tools🛠️
+## ⚡ What is vrstanchevLab?  
 
-- **OS**: iOS (BSD-based) 🍏
-- **Shell**: a-Shell (classic UNIX shell) 🐚
-- **Interpreter**: /bin/sh 📜
-- **Editor**: Vim ✍️
+**vrstanchevLab** is an **open-source powerhouse** focused on:  
 
----
-
-## Live Stream Schedule 📅
-
-Join my live streams where I dive deep into:
-
-- **RISC-V Assembly Language** 🔍
-- **Open-source tools on iOS and Linux** 📱🐧
-- **Vim, terminal utilities, and more** 🖥️
-
-Follow me on [Twitch](https://www.twitch.tv/vrstanchev) and [YouTube](https://www.youtube.com/@vrstanchev) to stay updated. 🔔
+🛠 **Assembly & RISC-V** – Code straight from the metal.  
+📱 **iOS Development on BSD** – Breaking new ground.  
+💡 **Minimalist, High-Performance C** – No-nonsense coding.  
+🎥 **Live Streams & Content** – Learn real low-level programming nightly at **7 PM EEST**.  
 
 ---
 
-## Featured Project 🌟
+## 🔗 Our Top Projects  
 
-### [ASMLab](https://github.com/vrstanchevLab/ASMLab)
-A personal project focused on learning and experimenting with assembly languages, including RISC-V. It's my space to explore low-level programming and share knowledge with others. 📚
-
----
-
-## Support My Project ❤️
-
-If you'd like to support my work, you can donate by scanning the QR code below:
-
-![Support QR Code](qr.png)
-
-Thank you for your support! 🙏
+🔹 [ASMLab](https://github.com/vrstanchevLab/ASMLab) – The **ultimate** open-source assembly learning platform.  
+🔹 [vrstanchev.dev](https://github.com/vrstanchevLab/vrstanchev.dev) – My personal site & knowledge hub.  
+🔹 More coming soon…  
 
 ---
 
-## Contact Me 📬
+## 🚀 Get Involved  
 
-Want to get in touch or collaborate? Feel free to reach out:
+🐦 **Follow me on Twitter** – [@vrstanchev](https://twitter.com/vrstanchev)  
+🎥 **Watch live coding on YouTube & Twitch** – [vrstanchev](https://www.twitch.tv/vrstanchev)  
+📧 **Contact** – hello@vrstanchev.dev  
 
-- **Email**: [vrstanchev@gmail.com](mailto:vrstanchev@gmail.com)
-- **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab) 🔗
+⚡ **Want to contribute?** Fork, PR, or reach out.  
+
+🔥 _The future is low-level. Get on board._ 🚀  
