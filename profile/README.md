@@ -6,6 +6,8 @@
 ![BSD & Linux](https://img.shields.io/badge/OS-BSD%20%26%20Linux-informational?style=flat-square)  
 ![Assembly & C](https://img.shields.io/badge/Language-Assembly%20%26%20C-yellow?style=flat-square)  
 [![vrstanchev.dev](https://img.shields.io/badge/Website-vrstanchev.dev-orange?style=flat-square)](https://vrstanchev.dev)  
+![GitHub Stars](https://img.shields.io/github/stars/vrstanchevLab?style=flat-square)  
+![GitHub Followers](https://img.shields.io/github/followers/vrstanchev?style=flat-square)  
 
 🚀 **Hardcore Assembly. RISC-V Mastery. BSD iOS Development.**  
 
@@ -26,8 +28,8 @@
 
 ## 🔗 Our Top Projects  
 
-🔹 [ASMLab](https://github.com/vrstanchevLab/ASMLab) – The **ultimate** open-source assembly learning platform.  
-🔹 [vrstanchev.dev](https://github.com/vrstanchevLab/vrstanchev.dev) – My personal site & knowledge hub.  
+🔹 [ASMLab](https://github.com/vrstanchevLab/ASMLab) – The **ultimate** open-source assembly learning platform. ![GitHub Repo Stars](https://img.shields.io/github/stars/vrstanchevLab/ASMLab?style=flat-square)  
+🔹 [vrstanchev.dev](https://github.com/vrstanchevLab/vrstanchev.dev) – My personal site & knowledge hub. ![GitHub Repo Stars](https://img.shields.io/github/stars/vrstanchevLab/vrstanchev.dev?style=flat-square)  
 🔹 More coming soon…  
 
 ---
