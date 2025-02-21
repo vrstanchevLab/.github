@@ -5,6 +5,7 @@
 ![Live Streams](https://img.shields.io/badge/Live%20Streams-Nightly-red?style=flat-square)  
 ![BSD & Linux](https://img.shields.io/badge/OS-BSD%20%26%20Linux-informational?style=flat-square)  
 ![Assembly & C](https://img.shields.io/badge/Language-Assembly%20%26%20C-yellow?style=flat-square)  
+[![vrstanchev.dev](https://img.shields.io/badge/Website-vrstanchev.dev-orange?style=flat-square)](https://vrstanchev.dev)  
 
 🚀 **Hardcore Assembly. RISC-V Mastery. BSD iOS Development.**  
 
@@ -33,6 +34,7 @@
 
 ## 🚀 Get Involved  
 
+🌍 **Visit** – [vrstanchev.dev](https://vrstanchev.dev)  
 🐦 **Follow me on Twitter** – [@vrstanchev](https://twitter.com/vrstanchev)  
 🎥 **Watch live coding on YouTube & Twitch** – [vrstanchev](https://www.twitch.tv/vrstanchev)  
 📧 **Contact** – hello@vrstanchev.dev  
